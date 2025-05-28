@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.resome.adx</groupId>
+  <groupId>com.risepop.adx</groupId>
   <artifactId>adxcore</artifactId>
   <version>1.0.5</version>
   <packaging>aar</packaging>
@@ -30,7 +30,7 @@
      </plugins>
   </build>
   <name>AdxCore</name>
-  <description>Core library for Resome ADX SDK</description>
+  <description>Core library for risepop ADX SDK</description>
   <url>https://github.com/risepop/risepop-adx-android</url>
   <licenses>
     <license>
